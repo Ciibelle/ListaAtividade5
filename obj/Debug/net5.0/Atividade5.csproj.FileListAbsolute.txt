@@ -1,0 +1,16 @@
+C:\Users\Use\Documents\projetos\ams\2ano\Atividade5\bin\Debug\net5.0\Atividade5.exe
+C:\Users\Use\Documents\projetos\ams\2ano\Atividade5\bin\Debug\net5.0\Atividade5.deps.json
+C:\Users\Use\Documents\projetos\ams\2ano\Atividade5\bin\Debug\net5.0\Atividade5.runtimeconfig.json
+C:\Users\Use\Documents\projetos\ams\2ano\Atividade5\bin\Debug\net5.0\Atividade5.runtimeconfig.dev.json
+C:\Users\Use\Documents\projetos\ams\2ano\Atividade5\bin\Debug\net5.0\Atividade5.dll
+C:\Users\Use\Documents\projetos\ams\2ano\Atividade5\bin\Debug\net5.0\ref\Atividade5.dll
+C:\Users\Use\Documents\projetos\ams\2ano\Atividade5\bin\Debug\net5.0\Atividade5.pdb
+C:\Users\Use\Documents\projetos\ams\2ano\Atividade5\obj\Debug\net5.0\Atividade5.csproj.AssemblyReference.cache
+C:\Users\Use\Documents\projetos\ams\2ano\Atividade5\obj\Debug\net5.0\Atividade5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Use\Documents\projetos\ams\2ano\Atividade5\obj\Debug\net5.0\Atividade5.AssemblyInfoInputs.cache
+C:\Users\Use\Documents\projetos\ams\2ano\Atividade5\obj\Debug\net5.0\Atividade5.AssemblyInfo.cs
+C:\Users\Use\Documents\projetos\ams\2ano\Atividade5\obj\Debug\net5.0\Atividade5.csproj.CoreCompileInputs.cache
+C:\Users\Use\Documents\projetos\ams\2ano\Atividade5\obj\Debug\net5.0\Atividade5.dll
+C:\Users\Use\Documents\projetos\ams\2ano\Atividade5\obj\Debug\net5.0\ref\Atividade5.dll
+C:\Users\Use\Documents\projetos\ams\2ano\Atividade5\obj\Debug\net5.0\Atividade5.pdb
+C:\Users\Use\Documents\projetos\ams\2ano\Atividade5\obj\Debug\net5.0\Atividade5.genruntimeconfig.cache
